@@ -1,0 +1,13 @@
+{
+   "name": "test-pacote",
+   "version": "0.0.1",
+   "description": "...",
+   "main": "indexjs",
+   "repository": {
+     "type": "git",
+     "url": "git+https://github.com/skress/test-pacote-data.git"
+   },
+   "files": [
+     "lib"
+   ]
+ }
